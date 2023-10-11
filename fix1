@@ -9,7 +9,7 @@ source $HOME/.cargo/env
 
 rustup install stable
 
-rustup update stable
+rustup upte stable
 
 rustup default stable
 
